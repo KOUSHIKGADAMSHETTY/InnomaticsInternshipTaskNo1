@@ -42,10 +42,4 @@ You would see all your entries in a neat table, indicating the category, amount,
 
 You can even edit or delete entries straight from the table.
 
-Technical Specification
 
-The application is developed with HTML, CSS, and JavaScript without any complex setup. Just pop it open in your web browser, and you're ready to track your budget.
-
-Future Enhancements
-
-Data persistence: As it stands now, your data is only temporary, so it disappears when you refresh or close the app. Moving forward, we will include new features that allow you to save your entries for long-term tracking, thus monitoring your finances over time.
